@@ -1,0 +1,1 @@
+"""SentinelGate MCP security gateway."""
